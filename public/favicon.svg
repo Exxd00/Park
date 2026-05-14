@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Amber rounded background matching the logo -->
+  <rect width="32" height="32" rx="7" fill="#f59e0b"/>
+
+  <!-- Lucide Plane icon - exact match, rotated -45 degrees -->
+  <g transform="translate(16, 16) rotate(-45) scale(0.7)" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.4-.1.9.3 1.2l5.3 3.5-1.2 1.3-3.2-.8c-.5-.1-1 .1-1.3.4l-.3.4c-.2.4-.1.9.2 1.2l3.3 2.6-.1.1c-.2.2-.3.5-.3.8s.1.6.3.8l.4.4c.2.2.5.3.8.3s.6-.1.8-.3l.1-.1 2.6 3.3c.3.4.8.5 1.2.2l.4-.3c.4-.3.5-.8.4-1.3l-.8-3.2 1.3-1.2 3.5 5.3c.3.4.8.5 1.2.3l.5-.3c.4-.2.6-.6.5-1.1Z" transform="translate(-12, -12)"/>
+  </g>
+</svg>
